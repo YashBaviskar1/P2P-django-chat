@@ -1,0 +1,16 @@
+
+.sender {
+  position: relative;
+  right: 0;
+  background-color: #0b4149;
+  margin: 10px 0;
+  width: fit-content;
+}
+
+.receiver {
+  position: relative;
+  left: 0;
+  background-color: #39bb53;
+  margin: 10px 0;
+  width: fit-content;
+}
